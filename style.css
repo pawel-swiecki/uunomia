@@ -1,4 +1,8 @@
+* {
+    background-color: #14213d;
+}
 h1 {
     font-family: 'Monaco', Courier, monospace;
     text-align: center;
+    color: #fca311;
 }
