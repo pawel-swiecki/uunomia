@@ -1,8 +1,23 @@
 * {
     background-color: #14213d;
 }
+
+nav,
 h1 {
-    font-family: 'Monaco', Courier, monospace;
+    font-family: "Cartograph CF", monospace;
+    font-weight: 250;
     text-align: center;
     color: #fca311;
+}
+
+nav a {
+    color: white;
+    margin: 20px;
+}
+
+nav {
+ display: flex;
+ gap: 16px;
+ font-size: 28px;
+ justify-content: end;
 }
